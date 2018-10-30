@@ -6,3 +6,6 @@ https://rnaseq.uoregon.edu/
 
 Experiment crowdfunding website
 https://experiment.com/guide
+
+statistical power tool
+http://scotty.genetics.utah.edu/
