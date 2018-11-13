@@ -1,8 +1,9 @@
 ### Purpose: Study the transcriptome of the annual aestivation cycle in sea cucumbers
 
 Rough Outline 
-* take respiratory, intestine, and mesentry tissue sample 
+* take muscle, respiratory, intestine, and mesentry tissue sample 
 * sample at least 3 sea cukes from summer, spring, and winter
+* sample prep and send off to be sequenced mid summer? wait for data could be up to two months 
 * look for differentially expressed genes
 * look for msmb genes 
 
@@ -36,10 +37,10 @@ Because of ribosomal rna concentrations, some prep has to be done to remove it. 
 
 
 --------------------------
-Prep process
+Prep process and kits
 
 RNA extraction
 RNA purification
-PolyA enrichment
+PolyA enrichment - https://www.illumina.com/products/by-type/sequencing-kits/library-prep-kits/truseq-rna-v2.html
 Library prep and multiplexing 
 
