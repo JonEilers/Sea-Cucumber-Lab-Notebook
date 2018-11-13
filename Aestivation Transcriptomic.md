@@ -2,7 +2,7 @@
 
 Rough Outline 
 * take respiratory, intestine, and mesentry tissue sample 
-* sample at least 3 sea cukes from summer, spring, fall, and winter
+* sample at least 3 sea cukes from summer, spring, and winter
 * look for differentially expressed genes
 * look for msmb genes 
 
@@ -16,3 +16,30 @@ experimental design to-do list:
 * [ ] figure out cost estimates, ie multiplexing etc
 * [ ] create step by step process for tissue sampling, rna preping, and library prepping
 * [ ] figure out sequencing depth needed 
+* [ ] How many kits will I need for tissue prep?
+  * rna extraction
+  * rna purification
+  * polyA enrichment
+  * indexing
+  * library prep
+* [ ] how do I do QC for samples?
+
+
+-----------------------------------------------------------------
+Notes about transcriptomic sequencing
+
+2x150 bp is referring to the library prep kit used. 2x is saying there are two sequences on either end of the spacer. the 150 bp is the size of each sequence. I think. 
+
+Because of ribosomal rna concentrations, some prep has to be done to remove it. PolyA enrichment or ribsomal rna depletion are the two common methods. 
+
+
+
+
+--------------------------
+Prep process
+
+RNA extraction
+RNA purification
+PolyA enrichment
+Library prep and multiplexing 
+
