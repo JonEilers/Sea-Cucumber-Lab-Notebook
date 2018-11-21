@@ -15,6 +15,9 @@ Per a lane
     - 260-310 million CPF; frequent yields: 320-405 million
   Illumina HiSeq 4000  – PE100 or PE150 -- $3648
     - same as above for depth
+    
+ URL
+ http://dnatech.genomecenter.ucdavis.edu/prices/
   
 OSU
 Per a lane
@@ -27,6 +30,9 @@ Per a lane
      Full Service Illumina 50bp Paired-End HiSeq 3000 - $2024
      Full Service Illumina 100bp Paired-End HiSeq 3000 - $2631
      Full Service Illumina 150bp Paired-End HiSeq 3000 - $3127
+     
+ URL
+ http://hts.cgrb.oregonstate.edu/calc/hiseq/
      
  Waiting for quotes from various commercial ventures
 
