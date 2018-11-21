@@ -27,5 +27,16 @@ Per a lane
      Full Service Illumina 50bp Paired-End HiSeq 3000 - $1349
      Full Service Illumina 100bp Paired-End HiSeq 3000 - $1754
      Full Service Illumina 150bp Paired-End HiSeq 3000 - $2085
+     
+ Waiting for quotes from various commercial ventures
+
+Omega Bioservices
+$179/$289 per sample for both library prep and sequencing to 20M/40M reads in PE150 format. 
+
+Otogenetics
+~2k need more details
+
+CD-genomics
+waiting for reply
 
 ~~~
