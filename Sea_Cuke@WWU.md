@@ -3,7 +3,9 @@
 
 ~~~ 
 Observation
-I have noticed multiple times at this point that there will usually be at least one or two sea cucumbers that have lifted the anteior part of their body into the water with their mouth parts pointed up. Why do they do this? They will also do this when close to the water surface. 
+I have noticed multiple times at this point that there will usually be at least one or two sea cucumbers
+that have lifted the anteior part of their body into the water with their mouth parts pointed up. 
+Why do they do this?They will also do this when close to the water surface. 
 
 One or two will also react to the the light and begin swaying the raised part of the body
 ~~~
