@@ -4,11 +4,11 @@
 > * Tested water for nitrate and nitrites. Both were at or extremely close to 0 ppm. No test kit for ammonia. 
 
 ![](https://i.imgur.com/YtmUcgo.jpg)
-Nitrate test 
+Nitrite test 
 
 
 ![](https://i.imgur.com/6XvPkho.jpg)
-Nitrite test
+Nitrate test
 
 
 > * Kits are old and probably need to purchase new kits
