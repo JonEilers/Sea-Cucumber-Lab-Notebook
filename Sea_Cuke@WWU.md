@@ -4,8 +4,10 @@
 > * Tested water for nitrate and nitrites. Both were at or extremely close to 0 ppm. No test kit for ammonia. 
 
 ![](https://i.imgur.com/YtmUcgo.jpg)
+Nitrate test
 
 ![](https://i.imgur.com/6XvPkho.jpg)
+Nitrite test
 
 > * Kits are old and probably need to purchase new kits
 
@@ -16,5 +18,5 @@
 > * After adding water from buckets, salinty was increased to approxmiately 30 ppm.
 
 ![](https://i.imgur.com/4JJXSCZ.jpg)
-
+Happy cucumber!
 
