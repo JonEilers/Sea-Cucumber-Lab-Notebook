@@ -2,6 +2,11 @@
 ### 11/26/2018
 
 > * Tested water for nitrate and nitrites. Both were at or extremely close to 0 ppm. No test kit for ammonia. 
+
+![](https://i.imgur.com/YtmUcgo.jpg)
+
+![](https://i.imgur.com/6XvPkho.jpg)
+
 > * Kits are old and probably need to purchase new kits
 
 > * Checked water salinity using the refractometer provided by Dr. Onthank
@@ -10,6 +15,6 @@
 > * I siphoned out fecal matter and other debrie on the bottom. Approximately 1-2 gallons. I replaced with water from buckets. 
 > * After adding water from buckets, salinty was increased to approxmiately 30 ppm.
 
-![](https://i.imgur.com/YwHSyEi.jpg)
+![](https://i.imgur.com/4JJXSCZ.jpg)
 
 
