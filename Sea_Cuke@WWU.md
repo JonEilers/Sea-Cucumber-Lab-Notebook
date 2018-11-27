@@ -8,7 +8,7 @@ I have noticed multiple times at this point that there will usually be at least 
 One or two will also react to the the light and begin swaying the raised part of the body
 ~~~
 
-Current water temperature is sitting around 10-13 C. I am considering raising the temperature to what would be considered summer temperature in the hopes to stimulate activity and begin feeding them. Currently no food has been added. They were acquired early november. 
+Current water temperature is sitting around 10-13 C. I am considering raising the temperature to what would be considered summer temperature in the hopes to stimulate activity and begin feeding them. Currently no food has been added. They were acquired early november. The collectors stated most sea cucumbers were dormant and not moving when collected. However, after collecting they have maintained slow and lethargic movement around the aquarium. Two died due to being sucked into exposed intake tubes. One more eviscerated shortly there after. I suspect it was due to exposure to biological compounds from the dead sea cucumber that was inadvertently left over night in the aquarium. 
 
 
 ### 11/26/2018
