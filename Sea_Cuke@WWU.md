@@ -1,3 +1,7 @@
+### 11/29/2018
+
+> Checked on cukes, they look happy. Did not check temp. 
+
 ### 11/28/2018
 
 > Checked on cukes, they look happy
