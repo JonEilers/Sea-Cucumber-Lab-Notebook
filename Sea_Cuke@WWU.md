@@ -1,3 +1,15 @@
+### 11/28/2018
+
+> Checked on cukes, they look happy
+
+> water temp = 10° C
+
+~~~
+One was exposing its anterior end to the water surface. Feeding tentacles retracted. Another was on the container floor with its posterior end twisted so the tube feet were exposed. I have noticed this behavior before, the cuke was fine.
+~~~
+
+
+
 ### 11/27/2018
 > Checked in on sea cucumbers, they look happy. 
 
