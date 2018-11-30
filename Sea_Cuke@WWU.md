@@ -1,3 +1,17 @@
+
+### 11/30/2018
+
+> used university credit card from onthank to purchase ammonia teat kit. Ammonia levels were at 2 ppm. Nitrate levels were zero
+
+![](https://i.imgur.com/7audVmF.jpg)
+Ammonia test
+
+
+Makes me think the bacteria in the filter are either not present or converting the ammonia to nitrate. Weird. Did a partial water change. Salinity refractometer was not present and i dont know where it was. Used all the water from the bucket with salinity of 35ish ppm and then added half a bucket of water from the tapwater hose. Sea cucumbers were sloughing skin prior to water change. Not sure what that means.
+
+![](https://i.imgur.com/yO64VuX.jpg)
+Sea cucumber sloughing skin
+
 ### 11/29/2018
 
 > Checked on cukes, they look happy. Did not check temp. 
