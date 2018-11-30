@@ -15,6 +15,9 @@ Sea cucumber sloughing skin
 ![](https://i.imgur.com/2J22NI0.jpg)
 Another photo of sea cucumber sloughing skin
 
+
+Divided the high salinity bucket between two buckets and topped them off with tap water. Should put the salinity at roughly 25 ppm
+
 ### 11/29/2018
 
 > Checked on cukes, they look happy. Did not check temp. 
