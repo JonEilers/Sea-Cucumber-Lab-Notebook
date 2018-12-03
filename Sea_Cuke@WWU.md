@@ -1,3 +1,26 @@
+### 12/02/2018
+
+> checked ammonia and temp levels. Ammonia ~ 2ppm still and temp 10 C. 
+
+Will do a water change later today when i have acquired the refractometer
+
+Also i want to buy a endoscope for observing internal organs. Will look into cost.
+
+![](https://i.imgur.com/10uLyCK.jpg)
+Ammonia test
+
+Some sea cucumbers are looking thin. I think they need food but the water temp is too low for them to activily feed. I turned up the water temp by a 2-3 C using the thermostat on the inside. This is off by about 8-10 C so it should raise the water temp to 12-13 C. Hopefully enough to allow the cucumbers to move more. Once i see they are active i will. Egin feeding them.
+
+![](https://i.imgur.com/vCQhyjr.jpg)
+This is the new thermostat temp i set
+
+Observation.
+They respond to light stimuli when i entered today, two of them began waving their anterior end i  the water and moving away from the surface.
+
+![](https://i.imgur.com/XTd0VKM.jpg)
+
+
+![](https://i.imgur.com/Pn3aZDy.jpg)
 
 ### 11/30/2018
 
