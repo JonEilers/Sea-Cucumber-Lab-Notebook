@@ -4,8 +4,12 @@
 
 ### Aestivation Transcriptomic
 
+Thoughts, ideas, and material related to Sea cucumber aestivation transcriptomics
 
 ### Aestivation transcriptome resources
+
+Resources regarding transcriptomics
+
 ### Methods
 
 This section contains all the protocols used in experiments or other processes. See below for hyperlinked list. 
