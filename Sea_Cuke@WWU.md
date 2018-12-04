@@ -2,7 +2,7 @@
 
 > Daily check up: temp on the thermometer in the cooler said roughly 11 degree celsius. 
 
-Sea cucumber look fine. Looking skinny. 
+Sea cucumber look fine. Looking skinny. I adjusted the thermostat setting a few degree warmer.
 
 > ![](https://i.imgur.com/Y6eLrrl.jpg)
 Sea cucumbers immediately after turning the light on and taking the lid off
@@ -11,10 +11,10 @@ Sea cucumbers immediately after turning the light on and taking the lid off
 Sea cucumbers a few minutes after turning the light on and taking the lid off
 
 > ![](https://i.imgur.com/Zb5m7ZG.jpg)
-thermostat setting inside cold room
+New thermostat setting inside cold room
 
 > ![](https://i.imgur.com/0KHPGuf.jpg)
-temperature gauge on the outside of the cold room
+temperature gauge reading on the outside of the cold room at the time of daily check up 
 
 ### 12/02/2018
 
