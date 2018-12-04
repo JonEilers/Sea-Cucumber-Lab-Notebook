@@ -7,13 +7,13 @@ Sea cucumber look fine. Looking skinny.
 > ![](https://i.imgur.com/Y6eLrrl.jpg)
 Sea cucumbers immediately after turning the light on and taking the lid off
 
-![](https://i.imgur.com/f1ipTKC.jpg)
+> ![](https://i.imgur.com/f1ipTKC.jpg)
 Sea cucumbers a few minutes after turning the light on and taking the lid off
 
-![](https://i.imgur.com/Zb5m7ZG.jpg)
+> ![](https://i.imgur.com/Zb5m7ZG.jpg)
 thermostat setting inside cold room
 
-![](https://i.imgur.com/0KHPGuf.jpg)
+> ![](https://i.imgur.com/0KHPGuf.jpg)
 temperature gauge on the outside of the cold room
 
 ### 12/02/2018
