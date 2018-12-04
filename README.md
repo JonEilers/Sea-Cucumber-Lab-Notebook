@@ -1,18 +1,30 @@
-# Sea-Cucumber-Lab-Notebook
-
-Lab notebook for sea cucumber experiments and a place to record my thoughts 
-
-How to incorporate environmental metadata such as salinity and temp when taking samples
-
-Check assembly status of genome
-
-Look how to create grn from rna seq data and how structure experiment for it
+# Sea-Cucumber-Lab-Notebook Introduction and Table of Contents
 
 
-~~~~ 
-11/18/18
-Chromosome count and linkage map of japonicus has been created. Can that be used for californicus?
 
-Also, why has a high quality genome assembly not been mapped to chromosomes yet in A. japonicus?
+### Aestivation Transcriptomic
 
-~~~~ 
+
+### Aestivation transcriptome resources
+### Methods
+
+This section contains all the protocols used in experiments or other processes. See below for hyperlinked list. 
+
+* Making salt water
+
+### Costs
+
+This section has cost estimates for all thesis expenses
+
+### Sea_Cuke@WWU
+
+This is a log book for the sea cucumbers housed in the walla walla university biology building.
+
+### Sea Cuke crispr protocol
+
+Protocol and other resources for using crispr to edit sea cucumber genomes
+
+### Thoughts
+
+This section includes thoughts and other observations regarding sea cucumbers 
+
