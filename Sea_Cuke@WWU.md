@@ -1,3 +1,10 @@
+### 12/04/2018
+
+![](https://i.imgur.com/gcEAudL.jpg)
+
+![](https://i.imgur.com/S0RQLku.jpg)
+
+
 ### 12/02/2018
 
 > checked ammonia and temp levels. Ammonia ~ 2ppm still and temp 10 C. 
