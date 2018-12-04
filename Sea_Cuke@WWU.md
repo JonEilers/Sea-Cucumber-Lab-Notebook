@@ -1,5 +1,12 @@
 ### 12/04/2018
 
+![](https://i.imgur.com/Y6eLrrl.jpg)
+
+![](https://i.imgur.com/f1ipTKC.jpg)
+
+![](https://i.imgur.com/Zb5m7ZG.jpg)
+
+![](https://i.imgur.com/0KHPGuf.jpg)
 
 ### 12/02/2018
 
