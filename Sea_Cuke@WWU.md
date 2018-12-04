@@ -4,7 +4,7 @@
 
 Sea cucumber look fine. Looking skinny. 
 
-![](https://i.imgur.com/Y6eLrrl.jpg)
+> ![](https://i.imgur.com/Y6eLrrl.jpg)
 Sea cucumbers immediately after turning the light on and taking the lid off
 
 ![](https://i.imgur.com/f1ipTKC.jpg)
