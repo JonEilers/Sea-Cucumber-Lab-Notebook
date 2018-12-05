@@ -2,9 +2,17 @@
 
 @0905
 
+Yeesh, I need to down size these photos before uploading them....
+
+> water temp is at 13-14 Celsius. 
+
+Cukes are showing elevated respiration rates as evidenced by increased anal sphincter opening/closing. Will begin adding dog food as soon as I do the next water change. Need respiratometer to check salinity. 
+
 ![](https://i.imgur.com/6EN6GWf.jpg)
+Thermometer in the cooler showing 13-14 celsius
 
 ![](https://i.imgur.com/bcEjeuQ.jpg)
+thermostat on the exterior of the cold room showing 11 celsius
 
 
 ### 12/04/2018
