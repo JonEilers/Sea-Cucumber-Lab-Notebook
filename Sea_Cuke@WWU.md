@@ -1,6 +1,7 @@
 ### 12/05/2018 
 
-![](https://i.imgur.com/oev6Xfn.jpg)
+@0920
+set the temp at 45 F. hopefully that will put the water temp between 12 C and 13 C. breathing rate of one of the sea cukes is at roughly 1 anal sphincter opening/30 seconds
 
 @0905
 
