@@ -1,3 +1,12 @@
+### 12/05/2018 
+
+@0905
+
+![](https://i.imgur.com/6EN6GWf.jpg)
+
+![](https://i.imgur.com/bcEjeuQ.jpg)
+
+
 ### 12/04/2018
 
 > Daily check up: temp on the thermometer in the cooler said roughly 11 degree celsius. 
