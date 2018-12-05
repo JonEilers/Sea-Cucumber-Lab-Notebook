@@ -1,5 +1,7 @@
 ### 12/05/2018 
 
+![](https://i.imgur.com/oev6Xfn.jpg)
+
 @0905
 
 Yeesh, I need to down size these photos before uploading them....
