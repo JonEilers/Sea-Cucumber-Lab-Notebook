@@ -1,3 +1,22 @@
+### 12/06/2018
+
+![](https://i.imgur.com/jmomSAd.jpg)
+
+![](https://i.imgur.com/M6AVnGY.jpg)
+
+![](https://i.imgur.com/6MXTAK9.jpg)
+
+![](https://i.imgur.com/jiNDkFU.jpg)
+
+![](https://i.imgur.com/JN7OJSO.jpg)
+
+
+![](https://i.imgur.com/YXHoeWS.jpg)
+
+![](https://i.imgur.com/LFB2Bhe.jpg)
+
+![](https://i.imgur.com/foKWajX.jpg)
+
 ### 12/05/2018 
 
 @0920
