@@ -1,21 +1,35 @@
 ### 12/06/2018
 
-![](https://i.imgur.com/jmomSAd.jpg)
+> #### before water change 
+> * salinity ~ 31 ppm
+> * ammonia ~ 2 ppm
+> * nitrate ~ 0 ppm
+> * water temp ~ 13 Celsius
 
-![](https://i.imgur.com/M6AVnGY.jpg)
+> #### after water change
+> * ammonia ~ .5 ppm
 
-![](https://i.imgur.com/6MXTAK9.jpg)
 
 ![](https://i.imgur.com/jiNDkFU.jpg)
 
 ![](https://i.imgur.com/JN7OJSO.jpg)
 
-
-![](https://i.imgur.com/YXHoeWS.jpg)
-
 ![](https://i.imgur.com/LFB2Bhe.jpg)
 
+![](https://i.imgur.com/jmomSAd.jpg)
+cooler temp
+
+![](https://i.imgur.com/M6AVnGY.jpg)
+thermostat setting
+
+![](https://i.imgur.com/6MXTAK9.jpg)
+Cold room temp
+
+![](https://i.imgur.com/YXHoeWS.jpg)
+Nitrate levels before water change 
+
 ![](https://i.imgur.com/foKWajX.jpg)
+Ammonia levels before water change
 
 ### 12/05/2018 
 
