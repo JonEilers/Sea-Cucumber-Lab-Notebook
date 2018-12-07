@@ -9,12 +9,16 @@
 > #### after water change
 > * ammonia ~ .5 ppm
 
+Measured nitrate, ammonia, salinity, and water temp. Checked salinity in water change buckets and adjusted the salinity to approx 30 ppm then did a 10 gallon water change which reduced ammonia from 2 ppm to .5 ppm. After water change, I added three pieces of dog kibble as food for sea cukes. I will check ammonia levels over the next few days. I poked the sea cukes with a plastic tube and observed the body walls to be thin and most likely lacking internal organs.                                                                                                                                                                                                                                         
 
 ![](https://i.imgur.com/jiNDkFU.jpg)
+Cooler with three bits of dog food floating on the surface
 
 ![](https://i.imgur.com/JN7OJSO.jpg)
+Ammonia levels after water change
 
 ![](https://i.imgur.com/LFB2Bhe.jpg)
+Amount of salt added to 5 gal buckets to bring salinity to 28 ppm
 
 ![](https://i.imgur.com/jmomSAd.jpg)
 cooler temp
