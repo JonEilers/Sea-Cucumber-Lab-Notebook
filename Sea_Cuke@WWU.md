@@ -17,21 +17,19 @@
 ![](https://i.imgur.com/LFB2Bhe.jpg)
 
 ![](https://i.imgur.com/jmomSAd.jpg)
-#### cooler temp
+cooler temp
 
 ![](https://i.imgur.com/M6AVnGY.jpg)
-
-####  Cold room temp
+Cold room temp
 
 ![](https://i.imgur.com/6MXTAK9.jpg)
-
-#### Thermostat setting
+Thermostat setting
 
 ![](https://i.imgur.com/YXHoeWS.jpg)
-#### Nitrate levels before water change 
+Nitrate levels before water change 
 
 ![](https://i.imgur.com/foKWajX.jpg)
-#### Ammonia levels before water change
+Ammonia levels before water change
 
 ### 12/05/2018 
 
