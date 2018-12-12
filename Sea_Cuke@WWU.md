@@ -1,3 +1,11 @@
+### 12/11/2018
+
+![](https://i.imgur.com/TV9M0tz.jpg)
+
+Some feeding behavior. Anal contractions on two are at about 15 seconds
+
+Dog food is untouched
+
 ### 12/06/2018
 
 > #### before water change 
