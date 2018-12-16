@@ -9,3 +9,6 @@ https://experiment.com/guide
 
 statistical power tool
 http://scotty.genetics.utah.edu/
+
+Tissue preservation 
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3626508/
