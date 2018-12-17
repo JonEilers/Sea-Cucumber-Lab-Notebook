@@ -1,3 +1,15 @@
+### 12/16/2018
+
+![](https://i.imgur.com/Fv9x3KN.jpg)
+
+![](https://i.imgur.com/mhsoe6K.jpg)
+
+![](https://i.imgur.com/vqY6OhX.jpg)
+
+![](https://i.imgur.com/2HKjwpk.jpg)
+
+![](https://i.imgur.com/W7UNjsd.jpg)
+
 ### 12/11/2018
 
 ![](https://i.imgur.com/TV9M0tz.jpg)
