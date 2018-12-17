@@ -1,5 +1,9 @@
 ### 12/16/2018
 
+> temp 12 C, salinity ~ 30 ppm, ammonia 2 ppm
+
+one sea cucumber had a large lesion on side with white decaying flesh bordered the lesion. It was limp when I picked it up. I assumed it was dead and began dissecting it to see if the gut had begun regenerating since I increased water temperature. As can be seen in the photos, not much if any gut regeneration has occured as far as I can tell. I did a 10 gallon water change and placed 3 pieces of dog food in the water. I would like to make slides of the sea cucumber tissue if possible. I will look at stain types and if we have a vibratome or other tools for slicing tissue 
+
 ![](https://i.imgur.com/Fv9x3KN.jpg)
 
 ![](https://i.imgur.com/mhsoe6K.jpg)
