@@ -5,6 +5,9 @@ RNAlater - 100 ml $135
            500 ml $419
 
 https://www.thermofisher.com/us/en/home/references/ambion-tech-support/rna-isolation/tech-notes/rnalater-faqs.html
+
+or make it myself
+https://pipettejockey.com/2016/05/08/homebrewdiy-rnalater-aka-rna-preservation-medium-on-the-cheap/
 ~~~
 
 ~~~
