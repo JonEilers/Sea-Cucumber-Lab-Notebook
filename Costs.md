@@ -6,6 +6,10 @@ RNAlater - 100 ml $135
 
 https://www.thermofisher.com/us/en/home/references/ambion-tech-support/rna-isolation/tech-notes/rnalater-faqs.html
 
+RNAstable - 25 reactions - $214
+
+https://www.sigmaaldrich.com/catalog/product/sigma/93221001?lang=en&region=US
+
 or make it myself
 https://pipettejockey.com/2016/05/08/homebrewdiy-rnalater-aka-rna-preservation-medium-on-the-cheap/
 ~~~
