@@ -5,6 +5,7 @@ RNAlater - 100 ml $135
            500 ml $419
 
 https://www.thermofisher.com/us/en/home/references/ambion-tech-support/rna-isolation/tech-notes/rnalater-faqs.html
+~~~
 
 ~~~
 mRNA Prep Kit
