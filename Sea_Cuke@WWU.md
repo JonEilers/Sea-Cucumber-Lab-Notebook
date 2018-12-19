@@ -1,3 +1,21 @@
+### 12/18/2018
+
+![](https://i.imgur.com/QRVGIRp.jpg)
+
+![](https://i.imgur.com/I7IFVXu.jpg)
+
+![](https://i.imgur.com/ldrtQpa.jpg)
+
+![](https://i.imgur.com/cHU1G5g.jpg)
+
+![](https://i.imgur.com/d0Ken6N.jpg)
+
+![](https://i.imgur.com/aVcYhMW.jpg)
+
+![](https://i.imgur.com/4PkTvHa.jpg)
+
+![](https://i.imgur.com/MWNrf8S.jpg)
+
 ### 12/16/2018
 
 > temp 12 C, salinity ~ 30 ppm, ammonia 2 ppm
