@@ -16,7 +16,15 @@
 
 
 > ## RNA Extraction
-
+> 
+> Sigma Aldrich - 
+> https://www.sigmaaldrich.com/life-science/molecular-biology/molecular-biology-products.html?TablePage=9618834
+>
+> Thermofisher -
+> https://www.thermofisher.com/us/en/home/life-science/dna-rna-purification-analysis/rna-extraction.html
+>
+> Qiagen
+> https://www.qiagen.com/us/shop/sample-technologies/rna/total-rna/rneasy-mini-kit/#orderinginformation
 
 > ## Index adaptors for multiplexing
 > 
