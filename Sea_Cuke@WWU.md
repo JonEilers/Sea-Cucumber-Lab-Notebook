@@ -1,10 +1,17 @@
 ### 12/18/2018
 
+> temp 12 C, ammonia 2-3 ppm
+
+One of the cukes stuck its mouth on the filter intake and managed to have its tissue slowly pulled through the mesh. I took it out and after trying to separate it without hurting it, I tore tissue off. After deciding it was going to die, I dissected it to observe the digestive track. As can be scene in the images below, it appears the gut was about halfway regenerated with both respiratory tree and reproductive organs present. Two of the other cukes appear to be exhibiting feeding behaviors at this time too. Two days ago I added three pieces of dog kibble. I removed two today. I attempted a fix on the filter intake by zip tying a small container with wholes in it over the intake. See photo below.
+
 ![](https://i.imgur.com/QRVGIRp.jpg)
+Photo of fix and the remaining three cukes
 
 ![](https://i.imgur.com/I7IFVXu.jpg)
+ammonia level
 
 ![](https://i.imgur.com/ldrtQpa.jpg)
+Cuke with tissue and mouth sucked through mesh
 
 ![](https://i.imgur.com/cHU1G5g.jpg)
 
