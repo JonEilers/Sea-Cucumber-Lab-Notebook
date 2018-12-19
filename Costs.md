@@ -15,6 +15,14 @@ https://pipettejockey.com/2016/05/08/homebrewdiy-rnalater-aka-rna-preservation-m
 ~~~
 
 ~~~
+Index adaptors for multiplexing
+
+TruSeq RNA Single Indexes Set A (12 Indexes, 48 Samples) - $240 for Set A
+
+https://www.illumina.com/products/by-type/sequencing-kits/library-prep-kits/truseq-stranded-mrna.html
+~~~
+
+~~~
 mRNA Prep Kit
 TruSeq® Stranded mRNA Library Prep (48 Samples) = $2,270.00
 
