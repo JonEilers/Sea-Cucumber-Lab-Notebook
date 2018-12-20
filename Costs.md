@@ -25,12 +25,16 @@
 >
 > Qiagen
 > https://www.qiagen.com/us/shop/sample-technologies/rna/total-rna/rneasy-mini-kit/#orderinginformation
+>
+> Or DIY protocols and other info
+> https://openwetware.org/wiki/RNA_extraction
 
 > ## Index adaptors for multiplexing
 > 
 > TruSeq RNA Single Indexes Set A (12 Indexes, 48 Samples) - $240 for Set A
 > 
 > https://www.illumina.com/products/by-type/sequencing-kits/library-prep-kits/truseq-stranded-mrna.html
+
 
 > ## mRNA Prep Kit
 > TruSeq® Stranded mRNA Library Prep (48 Samples) = $2,270.00
