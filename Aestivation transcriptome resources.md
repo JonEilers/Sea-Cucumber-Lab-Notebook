@@ -15,3 +15,6 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3626508/
 
 Sequencing depth info
 https://genohub.com/recommended-sequencing-coverage-by-application/
+
+RNA extraction
+https://openwetware.org/wiki/RNA_extraction
