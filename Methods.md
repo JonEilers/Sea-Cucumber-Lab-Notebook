@@ -7,3 +7,5 @@
 ### Tissue preservation
 
 ### RNA extraction
+> Or DIY protocols and other info
+> https://openwetware.org/wiki/RNA_extraction
