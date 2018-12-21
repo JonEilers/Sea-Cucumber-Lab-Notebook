@@ -2,7 +2,7 @@
 
 > temp ~ 12-13 C, ammonia ~ 2 ppm
 
-at least one of the cukes is feeding and it appears to be pooping now. I moved one cuke to see if it had its mouth tentacles out and it landed on another cuke. A scaleworm on it then jumped ship to the other cuke. 
+at least one of the cukes is feeding and it appears to be pooping now. I moved one cuke to see if it had its mouth tentacles out and it landed on another cuke. A scaleworm on it then jumped ship to the other cuke. Cold room thermometer read as under 10 C, which is strange as it was reading at 12 - 13 C for awhile. The thermometer in the cuke water still reads 12 - 13 C. 
 
 ![](https://i.imgur.com/ViU1Zjd.jpg)
 
