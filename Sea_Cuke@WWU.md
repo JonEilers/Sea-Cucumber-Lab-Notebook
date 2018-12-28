@@ -1,3 +1,9 @@
+![](https://i.imgur.com/mrTdbmL.jpg)
+
+![](https://i.imgur.com/wJHRxEp.jpg)
+
+![](https://i.imgur.com/de1wjhL.jpg)
+
 ### 12/21/2018
 
 > temp ~ 12-13 C, ammonia ~ 2 ppm
