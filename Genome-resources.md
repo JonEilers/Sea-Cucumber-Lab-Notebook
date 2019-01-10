@@ -7,4 +7,7 @@ https://melbournebioinformatics.github.io/MelBioInf_docs/tutorials/assembly/asse
 PacBio assembly info
 https://melbournebioinformatics.github.io/MelBioInf_docs/tutorials/pacbio/
 
+Genome assembly pipeline
+https://astrobiomike.github.io/genomics/de_novo_assembly
+
 
