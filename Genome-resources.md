@@ -10,4 +10,8 @@ https://melbournebioinformatics.github.io/MelBioInf_docs/tutorials/pacbio/
 Genome assembly pipeline
 https://astrobiomike.github.io/genomics/de_novo_assembly
 
+genohub comparison of nanopore vs pacbio
+https://blog.genohub.com/2017/06/16/pacbio-vs-oxford-nanopore-sequencing/
+
+
 
