@@ -1,5 +1,18 @@
+Software to look into
+* MUMmer
+* LAGAN
+* SOAPdenovo
+
 OS environment: genobuntu
 * Genome Assembly Ubuntu Package’ (http://sourceforge.net/ projects/genobuntu/, http://people.tamu.edu/?bilalwajidabbas/ Genobunu.html)
+
+Genome assembly steps, metrics, and more
+https://wurmlab.github.io/genomicscourse/2017/practicals/reference_genome/assembly
+https://www.biostars.org/p/75489/
+
+assemblathon is a resource
+metassembler
+clc genomics workbench
 
 ### initial assembly steps 
 * quality control and pre-processing
