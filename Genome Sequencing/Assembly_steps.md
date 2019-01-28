@@ -50,6 +50,8 @@ clc genomics workbench
    ~~~
     * AlignGraph
    ~~~
+### Long Read error correction
+LoRDEC for pacbio using illumnia short read
 * assembly improvement  
   * polishing:
    Fixing short indels and miscalls
