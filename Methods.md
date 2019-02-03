@@ -2,6 +2,9 @@
 
 ![](https://i.imgur.com/xYhuHP5.jpg)
 
+### TRIS-HCL buffer
+https://toptipbio.com/tris-hcl-recipe/
+
 ### Tissue sampling
 
 ### Tissue preservation
