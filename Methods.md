@@ -27,6 +27,7 @@ https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0206085
 2. Using  a sharp pair of scissors, insert scissors into the mouth and cut anterior to posterio until cucumber is completely cut open
 3. using a sterilized scapel, cut a 5 centimeter section of longituidal muscle band out. 
 4. freeze cucumber in -80 C for later use
+***
 
 ### Tissue preservation
 
