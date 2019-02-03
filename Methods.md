@@ -10,6 +10,7 @@ https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0206085
 http://enseqlopedia.com/2017/03/hmw-dna-extraction-long-reads-nanopore-10xgenomics/
 http://lab.loman.net/2017/03/09/ultrareads-for-nanopore/
 https://community.10xgenomics.com/t5/10x-Blog/Meet-10x-s-Jill-Herschleb/ba-p/367
+https://www.protocols.io/view/high-molecular-weight-dna-extraction-for-long-read-uppevmn
 
 ### Tissue sampling
 ***
