@@ -1,5 +1,7 @@
 ### 2/3/2019
 
+Whelp, it appears to be working. I didn't test the water in the cooler yesterday, but there is definitely ammonia and nitrates. Way more nitrates than ammonia. So something is going well. I added five bits of dog kibble to give the bacteria something to eat. Might get some fish food to supplement later. Also might begin doing water changes. Note to self, need to order a refractometer too. Temp in the cooler was 15 C. Note - high water temp for deception pass area is 14 C, winter is about 5 C. So the temp for the cukes last quarter was about what they would experience in the summer. heh
+
 ![](https://i.imgur.com/1H6bG2v.jpg)
 
 ### 2/2/2019
