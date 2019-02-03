@@ -4,6 +4,14 @@ Whelp, it appears to be working. I didn't test the water in the cooler yesterday
 
 ![](https://i.imgur.com/1H6bG2v.jpg)
 
+Side note: Early photos taken of what appears to be skin sloughing off the a cuke resembles spawninging in male sea cucumbers. Hard to tell from the photo, but definitely something to note for future observations. See video link below
+
+H. scabra
+https://www.youtube.com/watch?v=Nkntw8SzopI
+
+P. californicus
+https://www.youtube.com/watch?v=2QJGU-XxLBQ
+
 ### 2/2/2019
 
 After all the sea cucumbers died, the bodies were either frozen or disposed of. The cooler-aquarium-tank set up was taken down and cleaned. Today I set it back up. In three weeks we will be collecting more sea cucumbers and I wanted to try and get the bacterial population settled before introducing new cukes. Some changes were made.
