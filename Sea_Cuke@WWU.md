@@ -1,3 +1,14 @@
+### 2/2/2019
+
+After all the sea cucumbers died, the bodies were either frozen or disposed of. The cooler-aquarium-tank set up was taken down and cleaned. Today I set it back up. In three weeks we will be collecting more sea cucumbers and I wanted to try and get the bacterial population settled before introducing new cukes. Some changes were made.
+1. gravel substrate was added to the bottom. 
+2. 4.5 lbs of (1500 mls) were added to the water. there was roughly 25 gallons of freshwater.
+3. tested the ammonium and nitrate levels of the water in the cooler which original transported the cukes. There was both. Indicating there might be some bacteria still alive in there. I added about a gallon of that water to the newly set up cooler in the hopes it will colonize the filter and substrate. 
+4. cucumber proofed the intakes in the manner that worked previously. 
+
+### Goals for these cukes include - harvesting gametes, testing surgery procedures, karyotypes, and DNA extraction methods 
+
+
 ### 12/28/2018
 
 After returning from christmas break, the two remaining cukes were very very very dead and dissolving. Probably salinity. Will have to order a refractometer for sea cuke stuff in the future so this doesn't happen again. Also develop a fool proof routine for making sure I know what the water change water always is. 
