@@ -1,3 +1,7 @@
+### 2/4/2019
+
+checked ammonia/nitrate. ammonia might be up a smidge from yesterday. Hard to tell with nitrates. added some parmesan garlic stacy pita chips to the mix. water temp was at 12 C. Asked Nestler for a refractometer. 
+
 ### 2/3/2019
 
 Whelp, it appears to be working. I didn't test the water in the cooler yesterday, but there is definitely ammonia and nitrates. Way more nitrates than ammonia. So something is going well. I added five bits of dog kibble to give the bacteria something to eat. Might get some fish food to supplement later. Also might begin doing water changes. Note to self, need to order a refractometer too. Temp in the cooler was 15 C. Note - high water temp for deception pass area is 14 C, winter is about 5 C. So the temp for the cukes last quarter was about what they would experience in the summer. heh
