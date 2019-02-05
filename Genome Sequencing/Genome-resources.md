@@ -31,3 +31,5 @@ https://github.com/philres/ngmlr
 
 http://schatzlab.cshl.edu/data/nanocorr/
 
+Comparison of nanopore basecaller algorithms
+https://github.com/rrwick/Basecalling-comparison
