@@ -6,43 +6,15 @@ Folder containing information regarding sequencing the genome of Parastichopus c
 ### Hi-C
 Folder containing information regarding Hi-C methods for chromosome level scaffold assembly
 
-### Aestivation Transcriptomic
-
-Thoughts, ideas, and material related to Sea cucumber aestivation transcriptomics
-
-### Aestivation transcriptome resources
-
-Resources regarding transcriptomics
-
-### Genome-resources
-A file containing links to genome sequencing resources and other related information
-
 ### Methods
+Folder containing files and other bits pertaining methods and protocols
 
-This section contains all the protocols used in experiments or other processes. See below for hyperlinked list. 
-
-* Making salt water
-* TRIS-HCL buffer
-* HMW DNA extraction protocol
-* Gonad harvesting
-* Muscle tissue harvesting for Hi-C 
-* Tissue Preservation
-  * RNA extraction
-
-### Costs
-
-This section has cost estimates for all thesis expenses
+### RNA-Seq
+Folder containing files and otherb its pertaining to RNA-Seq and transcriptomics of sea cukes
 
 ### Sea_Cuke@WWU
 
 This is a log book for the sea cucumbers housed in the walla walla university biology building.
-
-### Karyotype
-Methods, protocols, and links about karyotyping
-
-### Sea Cuke crispr protocol
-
-Protocol and other resources for using crispr to edit sea cucumber genomes
 
 ### Thoughts
 
