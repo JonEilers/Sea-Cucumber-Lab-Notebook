@@ -20,3 +20,5 @@ This is a log book for the sea cucumbers housed in the walla walla university bi
 
 This section includes thoughts and other observations regarding sea cucumbers 
 
+### Just leaving this here for now
+http://jmcglone.com/guides/github-pages/
