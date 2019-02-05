@@ -29,3 +29,5 @@ http://artic.network/ebov/ebov-it-setup.html
 
 https://github.com/philres/ngmlr
 
+http://schatzlab.cshl.edu/data/nanocorr/
+
