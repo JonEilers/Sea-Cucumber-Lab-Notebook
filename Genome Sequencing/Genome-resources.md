@@ -21,4 +21,11 @@ https://medium.com/@kepler_00/nanopore-gpu-basecalling-using-guppy-on-ubuntu-18-
 Hybrid assembly pipeline produced by ONT:
 https://github.com/nanoporetech/ont-assembly-polish
 
+Nanopolish and tips for dealing with ONT long reads
+http://lab.loman.net/
+
+Arctic pipeline
+http://artic.network/ebov/ebov-it-setup.html
+
+https://github.com/philres/ngmlr
 
