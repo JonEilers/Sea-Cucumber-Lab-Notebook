@@ -1,3 +1,7 @@
+### 2/6/2019
+
+checked ammonia/nitrate. Ammonia about the same, nitrates are down. Refractometer arrived. Calibrated it and test salinity of the cooler. Was at 21ish ppm, which seemed low. So I checked it with Onthank's. His was about 4 ppm higher. So I checked the calibration on his and it was off. So it works. I added 600 ml (1.5lbs) more salt. 
+
 ### 2/4/2019
 
 checked ammonia/nitrate. ammonia might be up a smidge from yesterday. Hard to tell with nitrates. added some parmesan garlic stacy pita chips to the mix. water temp was at 12 C. Asked Nestler for a refractometer. 
