@@ -1,13 +1,26 @@
 ### 3/16/2019
 
+> * Salinity: ~35 ppm
+> * Ammonia: ~ .25-.5 ppm
+> * Nitrate: ~ 5 ppm
+> * Temperature: ~ 10 C
+> * 25% water change @ 1200
+> * another 25% water change planned for this evening
+
+4 sea cucumbers were collected from rosario March 10, 2019. They were transported to Walla Walla University that day. Two airstones were added to the water and a 50% water change was done. A few days later 10 lbs of aquarium sand, 5 lbs of aragonite, and several rocks were added. The next day the sea cucumbers pooped in various places around the tank. Some looked like it was the white sand that I had added the previous day and others were dark grey sediment from rosario. The sea cukes are usually on the tank wall when I check daily. the two air stones were located next to the tank walls and I noticed biofilms were developing where the airstones were bubbling. The next day the sea cukes were all in that location feeding. After reading about the role sediment plays in their digestion I moved the two airstones to the center of the tank in the hopes it would encourage the sea cukes to spend more time on the sediment. The next day one had eviscerated. I collected the gonads, digestive tract, and respiratory track and froze them at -80 C for later DNA extraction. Based on the gonads, the eviscerated cuke appears to be female. All cukes appear to be active and "feeding" so I cannot determine which one evisercated. I tried to hand feed them some of bottom feeder pellets. One looked like it tried to eat, the other sorta opened its mouth but then closed it. I added some flake fish food as the pellets may not dissociate enough for the cukes to eat whereas the flake food might break apart and provide easier food for the cukes. 
+
 ![](https://i.imgur.com/UrJaG2C.jpg)
+
+> note the blood vascular system runing parellel to the intestines and the rete mirable (red frilly stuff?) which would normally be associated with the resipatory tract. 
 
 ![](https://i.imgur.com/n9IWhKw.jpg)
 
 ![](https://i.imgur.com/odikOfz.jpg)
 
+
 ![](https://i.imgur.com/wEPw8YI.jpg)
 
+Note the various feces of different colors situated around the tank. One hypothesis for the evisceration is maybe a cuke was on the bubble stone and become frightened? Otherwise, ammonia levels are too high and salinity is within reason. Maybe there is also something in the sediment? The eviscerated digestive tract was empty upon inspection. 
 
 ### 2/6/2019
 
@@ -33,7 +46,7 @@ https://www.youtube.com/watch?v=Nkntw8SzopI
 P. californicus
 https://www.youtube.com/watch?v=2QJGU-XxLBQ
 
-### 2/2/2019
+### 2/2/2019* 
 
 After all the sea cucumbers died, the bodies were either frozen or disposed of. The cooler-aquarium-tank set up was taken down and cleaned. Today I set it back up. In three weeks we will be collecting more sea cucumbers and I wanted to try and get the bacterial population settled before introducing new cukes. Some changes were made.
 1. gravel substrate was added to the bottom. 
