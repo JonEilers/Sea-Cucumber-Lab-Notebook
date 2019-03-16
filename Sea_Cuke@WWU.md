@@ -1,3 +1,14 @@
+### 3/16/2019
+
+![](https://i.imgur.com/UrJaG2C.jpg)
+
+![](https://i.imgur.com/n9IWhKw.jpg)
+
+![](https://i.imgur.com/odikOfz.jpg)
+
+![](https://i.imgur.com/wEPw8YI.jpg)
+
+
 ### 2/6/2019
 
 checked ammonia/nitrate. Ammonia about the same, nitrates are down. Refractometer arrived. Calibrated it and test salinity of the cooler. Was at 21ish ppm, which seemed low. So I checked it with Onthank's. His was about 4 ppm higher. So I checked the calibration on his and it was off. So it works. I added 600 ml (1.5lbs) more salt. 
