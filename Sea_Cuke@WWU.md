@@ -1,10 +1,10 @@
 ### 3/17/219
 
-> 50% water change today
-> added spirulina and chlorella 
-> cut and mashed up raw oyster, shrimp. placed them within mesh and placed rocks to keep them submerged
-> Ammonia ~.5 ppm
-> Nitrate ~ 5 ppm
+> * 50% water change today
+> * added spirulina and chlorella 
+> * cut and mashed up raw oyster, shrimp. placed them within mesh and placed rocks to keep them submerged
+> * Ammonia ~.5 ppm
+> * Nitrate ~ 5 ppm
 
 After skimming numerous papers, I found that sea cucumbers definitely have food preferences. Specifically for bacteria and small algae. I also found papers looking at parastichopus californicus distribution and surface preference. They strongly prefer solid, rocky surfaces for feeding. This explains the preference for the side of the tank instead of the gravel and snad substrate. I added more rocks and will eventually find some bigger rocks to add. When the spirulina and chlorella was added the sea cucumbers immediately became active and began feeding. 12 hrs later shrimp, oyster, and nori were added to the bottom. The sea cucumbers appear to be ignoring it so far and opting to feed on the algae and bacteria forming on waterline in the tank. One technique for feeding sea cucumbers is making a plaste and putting it on corrugated plastic and then into the water. I checked ammonia levels 8ish hours later and it was .5 ppm. I will need to keep an eye on the ammonia levels over the next few days until I figure out how to feed them. 
 
