@@ -1,3 +1,5 @@
+![](https://i.imgur.com/hmshWJA.jpg)
+
 ### 3/16/2019
 
 > * Salinity: ~35 ppm
