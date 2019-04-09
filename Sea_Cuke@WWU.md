@@ -1,4 +1,10 @@
-### 3/17/219
+### 4/8/2019
+
+switched to keeping water quality records in a write in the rain notepad. Sea cucumbers produce a lot of ammonia, even when they aren't being fed... 
+
+Performed surgery on a cuke today to see if gonads could be extracted through a small incision next to the head. Notes and observations: anesthetize the cuke next time using menthol or chlorobutanol. The cuke moved around a lot while I was trying to make an incision. It was difficult to cut all the way through once the cuke contracted and the body wall thickened. However, if the cuke was completely relaxed I suspect the body wall would be fairly easy to cut through. I did remove some of the gonads through the incision, but the cuke also eviscerated and I removed the rest through the anus. Liezel sutured the cuke back up using needle and thread that is normally used for suturing up human wounds. She used the standard superficial wound stitch. I played with some of the gonads and was able to push sperm out of the tubes. I collected the gonads in one tube and the guts in another for freezing at -80 C. After the cuke was sutured up it was placed back in the cuke container and observed for a little bit to see how it was doing. It moved around and even performed feeding behavior. Found several papers with different chemicals for anesthetizing cukes. Also found a paper on freezing sea cuke sperm and specifically that the sperm was extracted from the gonads by mashing them on a .5 mm mesh. 
+
+### 3/17/2019
 
 > * 50% water change today
 > * added spirulina and chlorella 
