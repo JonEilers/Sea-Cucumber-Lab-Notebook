@@ -1,3 +1,9 @@
+### 4/19/2019
+
+Cuke was recovering until the 15th. I noticed there was a lot of transparent gooey stuff around the wound so I used some long forceps to try and pull some of it away. This pulled what I assume was the clot. The cuke looked deflated the following days and today I noticed the skin around the wound was starting to dissolve which is indicative the cuke is dying. Some parts of the cuke still responded to stimulus, but otherwise it was basically dead. 
+
+I removed the ovary and testes gonads from the -80 C freezer and attempted to extract gametes by pressing the gametes on a ~1 mm mesh over a centrifuge tube. A 1 cubic cm of testes produced about 1 ml of cloudy fluid and the gonadal epithelial tissue remained mostly intact on the mesh. Inspection of the fluid under 400x via compound microscope revealed what appear to be small cells. Subsequent oil immersion did not reveal additional details. Attempted saffarin staining but I didn't wait long enough nor wash it as I was in a rush. The paper this is based off of used eosin-nigrosin staining. I was unable to find eosin stain. Will try nigrosin next time. Sperm and tissue samples were placed back in the -80 C freezer. The goal was to isolate sperm and get a count, but there was too many cells to count, requiring future dilution and I was not sure what was sperm and what was gonad tissue cells. Next time I will dilute the fluid, stain using either the eosin-nigrosin or use safarin to stain the nucleus. See attached photos for examples. 
+
 ### 4/8/2019
 
 switched to keeping water quality records in a write in the rain notepad. Sea cucumbers produce a lot of ammonia, even when they aren't being fed... 
