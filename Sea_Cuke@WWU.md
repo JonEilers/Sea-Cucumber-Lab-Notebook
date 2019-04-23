@@ -1,3 +1,46 @@
+### 4/22/2019
+
+Attempted a nigrosin stain and a methaline blue stain on sperm/spermatozoa extracted from sea cucumber testes. 
+The nigrosin stain is not working. The protocol I followed was this:
+1. place drop of nigrosin stain on slide
+2. add drop of sample to nigrosin and mix
+3. smear across slide using another slide
+4. add slide cover and let dry
+The nigrosin looks like it is clumping and because the sperm are in saltwater, crystals form when it dries. I suspect it has to do with the basic nature of the saltwater and the ions within preciptating out whatever is in nigrosin. Next time, the sample will be centrifuged, supernatant removed, and DI water added and the pellet resuspended.
+
+The methylene blue stain appears to have worked quite well. 
+1. A drop of sample was placed on the slide. 
+2. A drop of methylene blue was added to the sample and mixed
+3. A slide cover was drag into and dropped onto the drop
+4. Slide was allowed to set for 10-15 minutes 
+5. DI water was used to wash away the stain and the slide was examined under a microscope
+
+This appears to have worked. Quite a lot of the material that looked like cells was stained. Methylene blue stains acidic molecules such as DNA. Cell nucleus or wherever large concentrations of DNA are should stain deep blue compared to the surrounding cell components. In this 
+instance, I suspected I let the stain sit too long before rinsing it out. 
+
+Nothing remotely resembling sperm was identified though. I wonder if sperm were not being produced yet and what I was seeing is most likely 
+lots of spermatozoa or other precusor cells? 
+
+Also found a good dilution for cell counting - sorta. A 1:3 sperm sample to artificial sea water seems to work. Sperm extraction initially yielded 
+about 1 ml of fluid/cells. this was further diluted to 3 mls. Then 50 microliters of sample was placed in a pcr tube with 150 microliters of sea water
+Using the photos I took, I will do some rough calculations of cell density later. The thing is knowing what dilution to use. 
+Hemocytometer was standard dimensions. All other photos were taken at 1000x
+
+![](https://i.imgur.com/AUUye2q.jpg)
+
+![](https://i.imgur.com/0N6UtM2.jpg)
+
+![](https://i.imgur.com/dJjwdi2.jpg)
+
+![](https://i.imgur.com/x69A86G.jpg)
+
+![](https://i.imgur.com/cl9cCD2.jpg)
+1:1 dilution
+
+![](https://i.imgur.com/NBEok2H.jpg)
+1:3 dilution
+
+
 ### 4/19/2019
 
 Cuke was recovering until the 15th. I noticed there was a lot of transparent gooey stuff around the wound so I used some long forceps to try and pull some of it away. This pulled what I assume was the clot. The cuke looked deflated the following days and today I noticed the skin around the wound was starting to dissolve which is indicative the cuke is dying. Some parts of the cuke still responded to stimulus, but otherwise it was basically dead. 
